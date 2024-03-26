@@ -1,3 +1,4 @@
+// Importing prompt module to take salary input
 const prompt = require("prompt-sync")({ sigint: true });
 
 //Prompts user when no marks are input
